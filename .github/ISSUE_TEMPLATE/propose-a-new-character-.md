@@ -7,6 +7,8 @@ assignees: ''
 
 ---
 
+- Game Name: 
+
 - Complete Name: 
 
 - Class: 
@@ -29,14 +31,9 @@ assignees: ''
   - Sp. Defense: 
   - Speed: 
 
-- Abilities:
+- Abilities: 
 
-    <!-- Abilities Name Here -->
-    ```
-    
-    ```
-
-- Signature Ability: 
+- Signature Abilities: 
 
     <!--Signature Ability Description Here-->
     ```
