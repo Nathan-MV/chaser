@@ -1,7 +1,7 @@
 ---
-name: Character
+name: Propose a new character.
 about: Propose a new character.
-title: "[CHARACTER]"
+title: "[CHARACTER] "
 labels: character
 assignees: ''
 
