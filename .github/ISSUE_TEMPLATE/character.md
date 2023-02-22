@@ -1,6 +1,6 @@
 ---
 name: Character
-about: Template for a new character.
+about: Propose a new character.
 title: "[CHARACTER]"
 labels: character
 assignees: ''
