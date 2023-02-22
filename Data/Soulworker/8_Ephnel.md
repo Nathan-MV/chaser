@@ -1,0 +1,3 @@
+## Ephnel
+
+- Indomitable Bombing Spear
