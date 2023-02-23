@@ -7,13 +7,14 @@ assignees: ''
 
 ---
 
-## Game Name:
+## Game: 
 
 ### Character Information
 
-- **Complete Name:** 
-- **Class:**
-- **Types:**
+- **Name:** 
+- **Class:** 
+- **Types:** 
+> 
 
 ### Stats
 
@@ -26,9 +27,9 @@ assignees: ''
 
 ### Abilities
 
-- **Abilities:**
-- **Signature Abilities:**
-> Signature Ability Description Here
+- **Abilities:** 
+- **Signature Abilities:** 
+> 
 
 ## Moves (max of 12)
 
@@ -36,5 +37,5 @@ assignees: ''
 
 ## Signature Moves (max of 4):
 
--
->Signature Move Description Here
+- 
+>
