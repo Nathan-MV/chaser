@@ -7,71 +7,34 @@ assignees: ''
 
 ---
 
-- Game Name: 
+## Game Name:
 
-- Complete Name: 
+### Character Information
 
-- Class: 
+- **Complete Name:** 
+- **Class:**
+- **Types:**
 
-- Description:
+### Stats
 
-    <!-- Character Description Here -->
-    ```
-    
-    ```
+- **HP:** 
+- **Attack:**
+- **Defense:**
+- **Sp. Attack:**
+- **Sp. Defense:**
+- **Speed:**
 
-- Types: 
+### Abilities
 
-- Stats:
+- **Abilities:**
+- **Signature Abilities:**
+> Signature Ability Description Here
 
-  - HP: 
-  - Attack: 
-  - Defense: 
-  - Sp. Attack: 
-  - Sp. Defense: 
-  - Speed: 
+## Moves (max of 12)
 
-- Abilities: 
+- 
 
-- Signature Abilities: 
+## Signature Moves (max of 4):
 
-    <!--Signature Ability Description Here-->
-    ```
-    
-    ```
-
-- Moves (max of 12):
-    <!--Move Names Here-->
-    ```
-    
-    ```
-
-- Signature Moves (max of 4):
-
-  - <!--Signature Move Name Here-->
-
-    <!--Signature Move Description Here-->
-    ```
-    
-    ```
-
-  - <!--Signature Move Name Here-->
-
-    <!--Signature Move Description Here-->
-    ```
-    
-    ```
-
-  - <!--Signature Move Name Here-->
-
-    <!--Signature Move Description Here-->
-    ```
-    
-    ```
-
-  - <!--Signature Move Name Here-->
-
-    <!--Signature Move Description Here-->
-    ```
-    
-    ```
+-
+>Signature Move Description Here
